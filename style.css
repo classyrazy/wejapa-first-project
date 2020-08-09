@@ -128,10 +128,10 @@ body{
     .me{
         border-radius: 30px;
         max-width: 100%;
-        width: 700px;
-        height: 600px;
+        height: auto;
+        width: 100%;
         position: relative;
-        margin-left: -150px;
+        margin-left: -155px;
         margin-top: -20px;
         object-position: center;
     }
